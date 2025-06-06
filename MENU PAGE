@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THE COZY CUP</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color:white;
+            color:rgb(249, 192, 255);
+        }
+        .menu-container {
+            width: 70%;
+            margin: auto;
+            background-color:rgb(255, 240, 245);
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        .menu-header {
+            background-color: #d7ff47;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .menu-section {
+            padding: 20px;
+        }
+        .menu-section h2 {
+            color: #5647ff;
+            margin-bottom: 10px;
+        }
+        .menu-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .menu-item:last-child {
+            border-bottom: none;
+        }
+        .center-img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20%;
+        }
+    </style>
+</head>
+<body>
+
+    
+    <div class="menu-container">
+        <div class="menu-header">
+            <h1>THE COZY CUP</h1>
+            <img src="C:\Users\lahari\OneDrive\Pictures\piccafe.jpg" alt="THE CAFE"  height:"200" width:"200">
+        </div>
+        <div class="menu-section">
+            <h2>Drinks</h2>
+            <div class="menu-item">
+                <span>Cappuccino</span>
+                <span>Rs 250</span>
+            </div>
+            <div class="menu-item">
+                <span>Latte</span>
+                <span>Rs 200</span>
+            </div>
+            <div class="menu-item">
+                <span>Mocha</span>
+                <span>Rs 300</span>
+            </div>
+            <div>
+
+                
+                <div class="menu-section"></div>
+        
+                    <h2>smoothies & juices</h2>
+                    <div class="menu-item">
+                    <span>mango smoothie</span>
+                    <span>Rs 110</span>
+                    </div>
+                    <div class="menu-item">
+                        <span>Fresh orange juice</span>
+                        <span>Rs 100</span>
+                    </div>
+                    <div class="menu-item">
+                        <span>lemonade</span>
+                        <span>Rs 60</span>
+                
+            </div>
+        </div>
+        <style>
+            .menu-section {
+                text-align: right;
+                
+        </style>
+        <div class="menu-section">
+            <h2>Snacks</h2>
+            <div class="menu-item">
+                <span>Sandwitches</span>
+                <span>Rs 120</span>
+            </div>
+            <div class="menu-item">
+                <span>chocolate chip cookies</span>
+                <span>Rs 80</span>
+            </div>
+            <div class="menu-item">
+                <span>French fries</span>
+                <span>Rs 250</span>
+                </div>
+            <div>
+                <div class="menu-section">
+                    <h2>Deserts</h2>
+                    <div class="menu-item">
+                    <span>cakes</span>
+                    <span>Rs 300</span>
+                    
+                    </div>
+                    <div class="menu-item">
+                    <span>pastery</span>
+                    <span>Rs 50</span>
+                    </div>
+                    <div class="menu-item">
+                        <span>cookies</span>
+                        <span>Rs 150</span>
+                    </div>
+                    <div class="menu-item">
+                        <span>Brownies</span>
+                        <span>Rs 150</span>
+                    </div>
+                                     <div class="section-menu">
+                                     <h2>Main course</h2>
+                                     <div class="menu-item">
+                                     <span>Cheese burger</span>
+                                     <span>Rs 200</span>
+                    </div>
+                                     <div class="menu-item">
+                                     <span>Cheese sandwitch</span>
+                                     <span>Rs 140</span>
+
+                        </div>
+                        <div>
+                                    <div class="menu-item">
+                                    <span>chicken burger</span>
+                                    <span>Rs 170</span>
+                        </div>
+                            <div>
+                                <div class="menu-item">
+                                    <span>pizza</span>
+                                    <span>Rs 120</span>
+
+                                </div>
+                                <div>
+                                
+                                </div>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            </div>
+        
+    <h2>add_on:Offer exclusive weekend specials or brunch menus to attract more customers</h2>
+    <h2>Entertainment':'Consider live music or entertainment to create a lively atmosphere</h2>
+    
